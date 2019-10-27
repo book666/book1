@@ -8,3 +8,5 @@
 步骤1：打开Git Gui，点击Clone Existing Repository
 步骤2：输入Source Location 和 Target Directory，点击ok；
 注意：Target Directory选则的文件夹是未创建的，工具会自动创建。
+
+cccc
